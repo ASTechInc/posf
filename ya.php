@@ -6,4 +6,7 @@ echo phpinfo();
 
 // место для footer
 
+$footer = '</html>';
+echo $footer;
+
 ?>
