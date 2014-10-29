@@ -4,4 +4,6 @@
 
 echo phpinfo();
 
+// место для footer
+
 ?>
